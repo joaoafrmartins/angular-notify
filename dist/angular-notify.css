@@ -59,7 +59,7 @@
   font-style: normal;
 }
 [notify] [note] [title] [close]::after {
-  content: '✖';
+  content: '×';
   opacity: .5;
 }
 [notify] [note] [envelope] {
